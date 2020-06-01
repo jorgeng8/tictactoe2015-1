@@ -1,0 +1,22 @@
+C:\Documents and Settings\USUARIO\Escritorio\ticktactoejorgeng\ticktactoejorgeng\bin\Debug\ticktactoejorgeng.exe
+C:\Documents and Settings\USUARIO\Escritorio\ticktactoejorgeng\ticktactoejorgeng\bin\Debug\ticktactoejorgeng.pdb
+C:\Documents and Settings\USUARIO\Escritorio\ticktactoejorgeng\ticktactoejorgeng\bin\Debug\ticktactoejorgeng.xml
+C:\Documents and Settings\USUARIO\Escritorio\ticktactoejorgeng\ticktactoejorgeng\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\USUARIO\Escritorio\ticktactoejorgeng\ticktactoejorgeng\obj\x86\Debug\ticktactoejorgeng.Form1.resources
+C:\Documents and Settings\USUARIO\Escritorio\ticktactoejorgeng\ticktactoejorgeng\obj\x86\Debug\ticktactoejorgeng.Resources.resources
+C:\Documents and Settings\USUARIO\Escritorio\ticktactoejorgeng\ticktactoejorgeng\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\USUARIO\Escritorio\ticktactoejorgeng\ticktactoejorgeng\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\USUARIO\Escritorio\ticktactoejorgeng\ticktactoejorgeng\obj\x86\Debug\ticktactoejorgeng.exe
+C:\Documents and Settings\USUARIO\Escritorio\ticktactoejorgeng\ticktactoejorgeng\obj\x86\Debug\ticktactoejorgeng.xml
+C:\Documents and Settings\USUARIO\Escritorio\ticktactoejorgeng\ticktactoejorgeng\obj\x86\Debug\ticktactoejorgeng.pdb
+G:\ticktactoejorgeng\ticktactoejorgeng\obj\x86\Debug\ticktactoejorgeng.exe
+G:\ticktactoejorgeng\ticktactoejorgeng\obj\x86\Debug\ticktactoejorgeng.xml
+G:\ticktactoejorgeng\ticktactoejorgeng\obj\x86\Debug\ticktactoejorgeng.pdb
+G:\ticktactoejorgeng\ticktactoejorgeng\bin\Debug\ticktactoejorgeng.exe
+G:\ticktactoejorgeng\ticktactoejorgeng\bin\Debug\ticktactoejorgeng.pdb
+G:\ticktactoejorgeng\ticktactoejorgeng\bin\Debug\ticktactoejorgeng.xml
+G:\ticktactoejorgeng\ticktactoejorgeng\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\ticktactoejorgeng\ticktactoejorgeng\obj\x86\Debug\ticktactoejorgeng.Form1.resources
+G:\ticktactoejorgeng\ticktactoejorgeng\obj\x86\Debug\ticktactoejorgeng.Resources.resources
+G:\ticktactoejorgeng\ticktactoejorgeng\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\ticktactoejorgeng\ticktactoejorgeng\obj\x86\Debug\GenerateResource.write.1.tlog
